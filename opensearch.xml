@@ -4,8 +4,8 @@
   <ShortName>Appsmith</ShortName>
   <Description>Search Appsmith</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://bucketclan.github.io/img/Appsmith-Logo.png</Image>
-  <Url type="text/html" method="get" template="https://bucketclan.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://bucketclan.github.io/opensearch.xml" />
-  <moz:SearchForm>https://bucketclan.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://bucketclan.github.io/appsmith-docs/img/Appsmith-Logo.png</Image>
+  <Url type="text/html" method="get" template="https://bucketclan.github.io/appsmith-docs/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://bucketclan.github.io/appsmith-docs/opensearch.xml" />
+  <moz:SearchForm>https://bucketclan.github.io/appsmith-docs/</moz:SearchForm>
 </OpenSearchDescription>
