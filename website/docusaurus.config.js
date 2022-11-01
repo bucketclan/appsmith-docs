@@ -9,7 +9,7 @@ const { EnvironmentCredentials } = require('aws-sdk');
 const config = {
   title: 'Appsmith',
   tagline: 'Open source, low code - Build, Ship and maintain Internal tools',
-  url: 'https://appsmithorg.github.io',
+  url: 'https://bucketclan.github.io',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'appsmith', // Usually your GitHub org/user name.
+  organizationName: 'bucketclan', // Usually your GitHub org/user name.
   projectName: 'appsmith-docs', // Usually your repo name.
   deploymentBranch: "gh-pages",
   // Even if you don't use internalization, you can use this field to set useful
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/appsmithorg/appsmith-docs/blob/v1.5/website/',
+            'https://github.com/bucketclan/appsmith-docs/blob/v1.5/website/',
         },
         blog: false,
         /*blog: {
